@@ -10,4 +10,4 @@ Run the following commands to assemble the virtual machine:
     sh makeVM.sh
 The virtual machine is now ready to be imported into VirtualBox!
 
-Refer to the handout for further instructions.
+Refer to the [Metasploit lab handout](https://github.com/bjelefano/CSC427Winter2022-MetasploitLab/blob/main/CSC427_Lab_Instructions.pdf) for setup instructions, and fill out the handout in this repo accordingly.
